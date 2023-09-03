@@ -6,7 +6,7 @@ info: |
   ## Praktikum PBO Pertemuan 1
   Pengenalan dasar pemrograman Java.
 
-  Asisten Praktikum Pemrograman Berbasis Objek 2022.
+  Asisten Praktikum Pemrograman Berbasis Objek 2023.
   Teknik Informatika Universitas Padjadjaran.
 drawings:
   persist: false
@@ -105,6 +105,9 @@ src: ./pages/21_Built In Method 1.md
 
 ---
 src: ./pages/22_Built In Method 2.md
+---
+---
+src: ./pages/23_Snippets.md
 ---
 
 ---

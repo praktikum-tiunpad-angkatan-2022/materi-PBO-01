@@ -8,28 +8,28 @@ layout: full
 <br><br>
 
 <div class='grid grid-cols-6 gap-16 py-4'>
-  <div class='flex flex-col items-center col-span-2'>
-    <img src="/img/dicky.jpg" class="w-16 rounded-full mb-4">
-    <span class='font-semibold'>Dicky Rahma Hermawan</span>
-    <span class='text-xs'>140810190001</span>
-  </div>
- <div class='flex flex-col items-center col-span-2'>
-    <img src="/img/fahrio.jpg" class="w-16 rounded-full mb-4">
-    <span class='font-semibold'>Mohamad Fahrio Ghanial F.</span>
-    <span class='text-xs'>140810190005</span>
+   <div class='flex flex-col items-center col-span-2'>
+    <img src="/img/rizky.jpg" class="w-20 h-20 object-cover rounded-full mb-4">
+    <span class='font-semibold'>Rizky Ramadhan Sudjarmono</span>
+    <span class='text-xs'>140810210004</span>
   </div>
    <div class='flex flex-col items-center col-span-2'>
-    <img src="/img/ariq.jpg" class="w-16 rounded-full mb-4">
-    <span class='font-semibold'>Ariq Hakim Ruswadi</span>
-    <span class='text-xs'>140810200001</span>
+    <img src="/img/ojan.jpg" class="w-20 h-20 object-cover rounded-full mb-4">
+    <span class='font-semibold'>Muhammad Fauzan Azhiima</span>
+    <span class='text-xs'>140810210041</span>
   </div>
-   <div class='flex flex-col items-center col-start-2 col-span-2'>
-    <img src="/img/muaz.jpg" class="w-16 rounded-full mb-4">
-    <span class='font-semibold'>Mu'az Abdul Rohim</span>
-    <span class='text-xs'>140810200026</span>
+   <div class='flex flex-col items-center col-span-2'>
+    <img src="/img/mutaz.jpg" class="w-20 h-20 object-cover rounded-full mb-4">
+    <span class='font-semibold'>Hudzaifah Al Mutaz Billah</span>
+    <span class='text-xs'>140810210050</span>
   </div>
-   <div class='flex flex-col items-center col-start-4 col-span-2'>
-    <img src="/img/varo.jpg" class="w-16 rounded-full mb-4">
+  <div class='flex flex-col items-center  col-start-2 col-span-2'>
+    <img src="/img/dika.jpg" class="w-20 h-20 object-cover rounded-full mb-4">
+    <span class='font-semibold'>Rizky Mahardika Hariyanto</span>
+    <span class='text-xs'>140810200010</span>
+  </div> 
+ <div class='flex flex-col items-center col-start-4 col-span-2'>
+    <img src="/img/varo.jpg" class="w-20 h-20 object-cover rounded-full mb-4">
     <span class='font-semibold'>Alvaro Dwi Oktaviano</span>
     <span class='text-xs'>140810200041</span>
   </div>
