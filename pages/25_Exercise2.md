@@ -23,7 +23,7 @@ nama    = Oriex
 npm     = 140810210001
 
 output  :
-Nama saya Oriex dengan NPM 140810210001
+Nama saya Nadia Mulyadi dengan NPM 140810220001
 ```
 </div>
 </div>
