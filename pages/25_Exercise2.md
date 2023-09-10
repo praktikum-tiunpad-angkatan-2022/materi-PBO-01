@@ -19,11 +19,11 @@ Masukkan nama dan npm anda kedalam objek tersebut lalu tampilkan.
 <span class='text-xs text-white font-extrabold uppercase text-yellow'>Contoh</span>
 <div class='mt-4 flex flex-col mb-2'>
 ```bash
-nama    = Oriex
+nama    = Nadia
 npm     = 140810210001
 
 output  :
-Nama saya Nadia Mulyadi dengan NPM 140810220001
+Nama saya Nadia dengan NPM 140810220001
 ```
 </div>
 </div>
